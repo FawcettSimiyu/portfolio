@@ -38,3 +38,7 @@ h4 {
 .program {
   border-style: solid;
 }
+.column {
+  float: left;
+  width: 25%;
+}
