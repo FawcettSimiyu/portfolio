@@ -1,5 +1,5 @@
 .projects {
-
+  background-color: #fdbb2d;
 }
 .About{
   float:left;
@@ -15,7 +15,7 @@ body {
   text-align: center;
   font-family: georgia;
   border-style: outset;
-  background-color: #D3CCE3;
+  background-color: #fdbb2d;
 }
 .footer {
   text-align: center;
@@ -31,4 +31,10 @@ h4 {
 .wrap{
   display:flex;
   background-color: #302b63;
+}
+#list {
+  list-style: none;
+}
+.program {
+  border-style: solid;
 }
