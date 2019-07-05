@@ -41,4 +41,5 @@ h4 {
 .column {
   float: left;
   width: 25%;
+  border-style: groove;
 }
